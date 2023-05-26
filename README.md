@@ -1,9 +1,12 @@
 # FormatCheck 
-A Java code used to check ENSDF datasets for format errors. It is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+A Java code used to check ENSDF datasets for format errors. The same checking function is also included in the ConsistenchCheck code among the default checking. It is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
+
+#### 2023-05
+Bug fixes and improvements
 
 #### 2023-03
 beta version 
