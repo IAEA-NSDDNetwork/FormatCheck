@@ -5,6 +5,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-11
+Bug fixes and improvements
+
 #### 2023-06
 Add an option to suppress multi-blank warning for continuation record line
 
