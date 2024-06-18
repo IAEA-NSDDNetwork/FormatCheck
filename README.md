@@ -4,6 +4,8 @@ A Java code used to check ENSDF datasets for format errors. The same checking fu
 Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
+#### 2024-06
+Bug fix
 
 #### 2024-03
 Bug fixes and improvements
